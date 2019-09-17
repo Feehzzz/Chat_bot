@@ -1,4 +1,4 @@
-const assistant = require('./config');
+const assistant = require('../Config/config');
 const assistantId = process.env.ibm_id;
 
 module.exports = {

@@ -1,5 +1,5 @@
 const routes = require('express').Router();
-const botController = require('./botController');
+const botController = require('../Controller/botController');
 
 routes.post('/chat/:text', async (req, res) => {
  
