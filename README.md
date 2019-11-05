@@ -6,3 +6,6 @@ Necessário configurar o arquivo dotenv com as informações do seu bot ibm wats
 Rota Post /chat/:(texto para enviar para o bot)
 
 teste
+
+teste
+
